@@ -1,0 +1,4 @@
+{
+    "input_file": "input/Customer.csv",
+    "output_file": "output/transformed_customers.csv"
+}

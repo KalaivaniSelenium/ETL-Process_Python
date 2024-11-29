@@ -1,0 +1,155 @@
+2024-11-28 11:28:20,048 - INFO - Starting data extraction.
+2024-11-28 11:28:20,049 - ERROR - An error occurred during the ETL process: [Errno 2] No such file or directory: 'input/customers.csv'
+2024-11-28 11:45:42,620 - INFO - Starting data extraction.
+2024-11-28 11:45:42,628 - INFO - Data extracted successfully from input/Customer.csv.
+2024-11-28 11:45:42,628 - INFO - Starting data transformation.
+2024-11-28 11:45:42,635 - INFO - Data transformation completed successfully.
+2024-11-28 11:45:42,635 - INFO - Starting data loading.
+2024-11-28 11:45:42,639 - INFO - Transformed data saved to output/transformed_customers.csv.
+2024-11-28 11:45:42,640 - INFO - Number of records processed: 2
+2024-11-28 11:48:32,580 - INFO - Starting data extraction.
+2024-11-28 11:48:32,584 - INFO - Data extracted successfully from input/Customer.csv.
+2024-11-28 11:48:32,584 - INFO - Starting data transformation.
+2024-11-28 11:48:32,587 - INFO - Data transformation completed successfully.
+2024-11-28 11:48:32,587 - INFO - Starting data loading.
+2024-11-28 11:48:32,590 - INFO - Transformed data saved to output/transformed_customers.csv.
+2024-11-28 11:48:32,590 - INFO - Number of records processed: 2
+2024-11-28 12:05:14,140 - INFO - Starting data extraction.
+2024-11-28 12:05:14,144 - INFO - Data extracted successfully from input/Customer.csv.
+2024-11-28 12:05:14,144 - INFO - Starting data transformation.
+2024-11-28 12:05:14,147 - INFO - Data transformation completed successfully.
+2024-11-28 12:05:14,147 - INFO - Starting data loading.
+2024-11-28 12:05:14,150 - INFO - Transformed data saved to output/transformed_customers.csv.
+2024-11-28 12:05:14,150 - INFO - Number of records processed: 2
+2024-11-28 12:06:06,467 - INFO - Starting data extraction.
+2024-11-28 12:06:06,472 - INFO - Data extracted successfully from input/Customer.csv.
+2024-11-28 12:06:06,472 - INFO - Starting data transformation.
+2024-11-28 12:06:06,477 - INFO - Data transformation completed successfully.
+2024-11-28 12:06:06,477 - INFO - Starting data loading.
+2024-11-28 12:06:06,481 - INFO - Transformed data saved to output/transformed_customers.csv.
+2024-11-28 12:06:06,481 - INFO - Number of records processed: 2
+2024-11-28 12:07:50,481 - INFO - Starting data extraction.
+2024-11-28 12:07:50,485 - INFO - Data extracted successfully from input/Customer.csv.
+2024-11-28 12:07:50,485 - INFO - Starting data transformation.
+2024-11-28 12:07:50,488 - INFO - Data transformation completed successfully.
+2024-11-28 12:07:50,488 - INFO - Starting data loading.
+2024-11-28 12:07:50,490 - INFO - Transformed data saved to output/transformed_customers.csv.
+2024-11-28 12:07:50,490 - INFO - Number of records processed: 2
+2024-11-28 12:09:55,970 - INFO - Starting data extraction.
+2024-11-28 12:10:17,338 - INFO - Data extracted successfully from input/Customer.csv.
+2024-11-28 12:10:28,441 - INFO - Starting data transformation.
+2024-11-28 12:15:34,329 - INFO - Data transformation completed successfully.
+2024-11-28 12:15:35,553 - INFO - Starting data loading.
+2024-11-28 12:15:42,216 - INFO - Transformed data saved to output/transformed_customers.csv.
+2024-11-28 12:15:42,745 - INFO - Number of records processed: 2
+2024-11-28 12:23:51,760 - INFO - Starting data extraction.
+2024-11-28 12:23:51,772 - INFO - Data extracted successfully from input/Customer.csv.
+2024-11-28 12:23:51,772 - INFO - Starting data transformation.
+2024-11-28 12:23:51,775 - INFO - Data transformation completed successfully.
+2024-11-28 12:23:51,775 - INFO - Starting data loading.
+2024-11-28 12:23:51,778 - INFO - Transformed data saved to output/transformed_customers.csv.
+2024-11-28 12:23:51,778 - INFO - Number of records processed: 3
+2024-11-28 12:26:10,232 - INFO - Starting data extraction.
+2024-11-28 12:26:10,262 - INFO - Data extracted successfully from input/Customer.csv.
+2024-11-28 12:26:10,262 - INFO - Starting data transformation.
+2024-11-28 12:26:10,284 - INFO - Data transformation completed successfully.
+2024-11-28 12:26:10,284 - INFO - Starting data loading.
+2024-11-28 12:26:10,292 - INFO - Transformed data saved to output/transformed_customers.csv.
+2024-11-28 12:26:10,292 - INFO - Number of records processed: 3
+2024-11-28 13:19:51,083 - INFO - Starting data extraction.
+2024-11-28 13:19:51,096 - INFO - Data extracted successfully from input/Customer.csv.
+2024-11-28 13:19:51,096 - INFO - Starting data transformation.
+2024-11-28 13:19:51,100 - INFO - Data transformation completed successfully.
+2024-11-28 13:19:51,100 - INFO - Starting data loading.
+2024-11-28 13:19:51,102 - INFO - Transformed data saved to output/transformed_customers.csv.
+2024-11-28 13:19:51,103 - INFO - Number of records processed: 3
+2024-11-28 13:20:08,416 - INFO - Starting data extraction.
+2024-11-28 13:20:08,420 - INFO - Data extracted successfully from input/Customer.csv.
+2024-11-28 13:20:08,420 - INFO - Starting data transformation.
+2024-11-28 13:20:08,422 - INFO - Data transformation completed successfully.
+2024-11-28 13:20:08,422 - INFO - Starting data loading.
+2024-11-28 13:20:08,425 - INFO - Transformed data saved to output/transformed_customers.csv.
+2024-11-28 13:20:08,425 - INFO - Number of records processed: 3
+2024-11-28 13:21:35,683 - INFO - Starting data extraction.
+2024-11-28 13:21:35,687 - INFO - Data extracted successfully from input/Customer.csv.
+2024-11-28 13:21:35,688 - INFO - Starting data transformation.
+2024-11-28 13:21:35,692 - ERROR - An error occurred during the ETL process: '>=' not supported between instances of 'str' and 'int'
+2024-11-28 14:00:50,856 - INFO - Starting data extraction.
+2024-11-28 14:00:50,863 - INFO - Data extracted successfully from input/Customer.csv.
+2024-11-28 14:00:50,864 - INFO - Starting data transformation.
+2024-11-28 14:00:50,870 - ERROR - An error occurred during the ETL process: '>=' not supported between instances of 'str' and 'int'
+2024-11-28 14:01:12,649 - INFO - Starting data extraction.
+2024-11-28 14:01:12,657 - INFO - Data extracted successfully from input/Customer.csv.
+2024-11-28 14:01:12,657 - INFO - Starting data transformation.
+2024-11-28 14:01:12,664 - INFO - Data transformation completed successfully.
+2024-11-28 14:01:12,664 - INFO - Starting data loading.
+2024-11-28 14:01:12,668 - INFO - Transformed data saved to output/transformed_customers.csv.
+2024-11-28 14:01:12,668 - INFO - Number of records processed: 2
+2024-11-28 14:02:50,333 - INFO - Starting data extraction.
+2024-11-28 14:02:50,341 - INFO - Data extracted successfully from input/Customer.csv.
+2024-11-28 14:02:50,341 - INFO - Starting data transformation.
+2024-11-28 14:02:50,348 - INFO - Data transformation completed successfully.
+2024-11-28 14:02:50,348 - INFO - Starting data loading.
+2024-11-28 14:02:50,352 - INFO - Transformed data saved to output/transformed_customers.csv.
+2024-11-28 14:02:50,352 - INFO - Number of records processed: 2
+2024-11-28 14:03:20,215 - INFO - Starting data extraction.
+2024-11-28 14:03:20,237 - INFO - Data extracted successfully from input/Customer.csv.
+2024-11-28 14:03:20,237 - INFO - Starting data transformation.
+2024-11-28 14:03:20,244 - INFO - Data transformation completed successfully.
+2024-11-28 14:03:20,244 - INFO - Starting data loading.
+2024-11-28 14:03:20,248 - INFO - Transformed data saved to output/transformed_customers.csv.
+2024-11-28 14:03:20,249 - INFO - Number of records processed: 3
+2024-11-28 14:18:51,788 - INFO - Starting data extraction.
+2024-11-28 14:18:51,796 - INFO - Data extracted successfully from input/Customer.csv.
+2024-11-28 14:18:51,796 - INFO - Starting data transformation.
+2024-11-28 14:18:51,804 - INFO - Data transformation completed successfully.
+2024-11-28 14:18:51,804 - INFO - Starting data loading.
+2024-11-28 14:18:51,808 - INFO - Transformed data saved to output/transformed_customers.csv.
+2024-11-28 14:18:51,808 - INFO - Number of records processed: 3
+2024-11-28 14:19:14,522 - INFO - Starting data extraction.
+2024-11-28 14:19:14,544 - INFO - Data extracted successfully from input/Customer.csv.
+2024-11-28 14:19:14,545 - INFO - Starting data transformation.
+2024-11-28 14:19:14,552 - ERROR - An error occurred during the ETL process: '>=' not supported between instances of 'str' and 'int'
+2024-11-28 14:20:19,429 - INFO - Starting data extraction.
+2024-11-28 14:20:19,436 - INFO - Data extracted successfully from input/Customer.csv.
+2024-11-28 14:20:19,436 - INFO - Starting data transformation.
+2024-11-28 14:20:19,441 - ERROR - An error occurred during the ETL process: '>=' not supported between instances of 'str' and 'int'
+2024-11-28 14:20:38,857 - INFO - Starting data extraction.
+2024-11-28 14:20:38,868 - INFO - Data extracted successfully from input/Customer.csv.
+2024-11-28 14:20:38,868 - INFO - Starting data transformation.
+2024-11-28 14:21:19,715 - ERROR - An error occurred during the ETL process: '>=' not supported between instances of 'str' and 'int'
+2024-11-28 14:21:55,256 - INFO - Starting data extraction.
+2024-11-28 14:21:55,279 - INFO - Data extracted successfully from input/Customer.csv.
+2024-11-28 14:21:55,280 - INFO - Starting data transformation.
+2024-11-28 14:21:55,287 - INFO - Data transformation completed successfully.
+2024-11-28 14:21:55,287 - INFO - Starting data loading.
+2024-11-28 14:21:55,292 - INFO - Transformed data saved to output/transformed_customers.csv.
+2024-11-28 14:21:55,292 - INFO - Number of records processed: 3
+2024-11-28 14:23:24,727 - INFO - Starting data extraction.
+2024-11-28 14:23:24,737 - INFO - Data extracted successfully from input/Customer.csv.
+2024-11-28 14:23:24,737 - INFO - Starting data transformation.
+2024-11-28 14:23:24,744 - INFO - Data transformation completed successfully.
+2024-11-28 14:23:24,745 - INFO - Starting data loading.
+2024-11-28 14:23:24,749 - INFO - Transformed data saved to output/transformed_customers.csv.
+2024-11-28 14:23:24,749 - INFO - Number of records processed: 3
+2024-11-28 14:23:41,728 - INFO - Starting data extraction.
+2024-11-28 14:23:41,735 - INFO - Data extracted successfully from input/Customer.csv.
+2024-11-28 14:23:41,736 - INFO - Starting data transformation.
+2024-11-28 14:23:41,743 - INFO - Data transformation completed successfully.
+2024-11-28 14:23:41,743 - INFO - Starting data loading.
+2024-11-28 14:23:41,747 - INFO - Transformed data saved to output/transformed_customers.csv.
+2024-11-28 14:23:41,747 - INFO - Number of records processed: 3
+2024-11-28 14:23:59,911 - INFO - Starting data extraction.
+2024-11-28 14:23:59,931 - INFO - Data extracted successfully from input/Customer.csv.
+2024-11-28 14:23:59,931 - INFO - Starting data transformation.
+2024-11-28 14:23:59,939 - INFO - Data transformation completed successfully.
+2024-11-28 14:23:59,939 - INFO - Starting data loading.
+2024-11-28 14:23:59,943 - INFO - Transformed data saved to output/transformed_customers.csv.
+2024-11-28 14:23:59,943 - INFO - Number of records processed: 2
+2024-11-28 14:24:23,412 - INFO - Starting data extraction.
+2024-11-28 14:24:23,445 - INFO - Data extracted successfully from input/Customer.csv.
+2024-11-28 14:24:23,446 - INFO - Starting data transformation.
+2024-11-28 14:24:23,456 - INFO - Data transformation completed successfully.
+2024-11-28 14:24:23,456 - INFO - Starting data loading.
+2024-11-28 14:24:23,461 - INFO - Transformed data saved to output/transformed_customers.csv.
+2024-11-28 14:24:23,462 - INFO - Number of records processed: 2

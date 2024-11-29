@@ -1,0 +1,6 @@
+Name,Email,Age,Country
+John Doe,john.doe@example.com,25,USA
+Jane Smith,,30,UK
+hi,invalidemail,17,India
+Alex Lee,alex.lee@example.com,40,Canada
+bricks, brick@example.com,"30",Australia
